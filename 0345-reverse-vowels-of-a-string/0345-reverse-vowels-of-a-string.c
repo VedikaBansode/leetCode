@@ -1,4 +1,4 @@
-#include <strings.h>
+#include <string.h>
 
 char* reverseVowels(char* s) {
     int size = strlen(s);
